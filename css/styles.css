@@ -1,10 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
-    width: 1440px;
-    height: 2060px;
-    background: var(--white);
-    margin: 0;
 }
+
+.li-item1 {
+    display: inline;
+}
+
 
 .main-section-1 {
     width: 1440px;
@@ -32,4 +33,37 @@ body {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4D5AE5;
     font-weight: 500;
+}
+
+.main-section-3 {    
+    background: #F4F4FD;
+}
+
+.main-section-3-mtxt {
+    text-align: center;
+    color: #2E2F42;
+}
+
+.li-item3 {
+    display: inline;
+}
+
+
+.footer1 {
+    width: 1440px;
+    height: 312px;
+    background: #2E2F42;
+}
+
+.footer-logo {
+    margin-left: 156px;
+    margin-top: 100px;
+}
+
+.footer-txt {
+    margin-left: 156px;
+    margin-top: 140px;
+    width: 264px;
+    height: 112px;
+    color: #F4F4FD;
 }
