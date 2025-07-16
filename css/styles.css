@@ -10,7 +10,7 @@ body {
 .main-section-1 {
     width: 1440px;
     height: 600px;
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .main-section-1-txt {
@@ -48,6 +48,10 @@ body {
     display: inline;
 }
 
+.main-section-4-mtxt {
+    text-align: center;
+    color: #2E2F42;
+}
 
 .footer1 {
     width: 1440px;
