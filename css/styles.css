@@ -69,7 +69,7 @@ a {
 
 /* main */
 
-/* first-sectionsection */
+/* first-section */
 
 .first-section {
     background-color: #2E2F42;
@@ -98,19 +98,82 @@ a {
     background-color: #404BBF
 }
 
-.main-section3 {
+/* second-section */
+
+.second-section {}
+
+.second-section-head {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.second-section-list {}
+
+.second-section-item {}
+
+.second-section-name {}
+
+.second-section-txt {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* third section */
+
+.third-section {
     background: #F4F4FD;
 }
 
-.main-section3-mtxt {
-    color: #2E2F42;
+.third-section-head {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
-.li-item3 {}
-
-.main-section4-mtxt {
-    color: #2E2F42;
+.third-section-list {
+    background-color: #FFFFFF;
 }
+
+.third-section-item {}
+
+.third-section-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.third-section-txt {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+/* fourth section */
+
+.fourth-section {}
+
+.fourth-section-head {}
+
+.fourth-section-list {}
+
+.fourth-section-item {}
+
+.fourth-section-name {}
+
+.fourth-section-txt {}
+
 
 /* footer*/
 
