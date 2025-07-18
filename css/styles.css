@@ -102,17 +102,17 @@ a {
 
 .second-section {}
 
-.second-section-head {
+.second-section-head {}
+
+.second-section-list {}
+
+.second-section-item {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
-.second-section-list {}
-
-.second-section-item {}
 
 .second-section-name {}
 
@@ -140,7 +140,9 @@ a {
     background-color: #FFFFFF;
 }
 
-.third-section-item {}
+.third-section-item {
+    background-color: #FFFFFF
+}
 
 .third-section-name {
     font-weight: 500;
@@ -164,15 +166,34 @@ a {
 
 .fourth-section {}
 
-.fourth-section-head {}
+.fourth-section-head {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
 
 .fourth-section-list {}
 
 .fourth-section-item {}
 
-.fourth-section-name {}
+.fourth-section-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
-.fourth-section-txt {}
+.fourth-section-txt {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 
 /* footer*/
