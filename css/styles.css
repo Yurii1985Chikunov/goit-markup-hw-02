@@ -69,13 +69,13 @@ a {
 
 /* main */
 
-/* section-1 */
+/* first-sectionsection */
 
-.main-section1 {
+.first-section {
     background-color: #2E2F42;
 }
 
-.main-section1-txt {
+.first-section-txt {
     letter-spacing: 0.02em;
     text-align: center;
     font-size: 56px;
@@ -83,7 +83,7 @@ a {
     color: #ffffff;
 }
 
-.main-section1-btn {
+.first-section-btn {
     cursor: pointer;
     letter-spacing: 0.04em;
     line-height: 1.5;
@@ -93,8 +93,8 @@ a {
     color: #ffffff
 }
 
-.main-section1-btn:hover,
-.main-section1-btn:focus {
+.first-section-btn:hover,
+.first-section-btn:focus {
     background-color: #404BBF
 }
 
